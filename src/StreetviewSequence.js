@@ -43,7 +43,7 @@
             loop: false,
             pitchSkewStart: 0,
             sensor: false,
-            totalFrames: 75,
+            totalFrames: 200,
             width: 300
         };
         var headingCache = {};
